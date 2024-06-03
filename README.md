@@ -45,5 +45,5 @@ Most models come with maps.
 
 ### Custom Factory
  - `export GAZEBO_MODEL_PATH=/home/<user_name>/.gazebo/models/factory/models/`
- - `gazebo factory.model`
+ - `gazebo factory.world`
  ![Factory](https://github.com/mlherd/gazebo_worlds_models_maps_for_testing_navigation/blob/master/worlds/factory/factory.jpg?raw=true)
