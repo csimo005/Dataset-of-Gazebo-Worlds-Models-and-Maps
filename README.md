@@ -47,3 +47,11 @@ Most models come with maps.
  - `export GAZEBO_MODEL_PATH=/home/<user_name>/.gazebo/models/factory/models/`
  - `gazebo factory.world`
  ![Factory](https://github.com/mlherd/gazebo_worlds_models_maps_for_testing_navigation/blob/master/worlds/factory/factory.jpg?raw=true)
+
+### To Do
+ - [ ] Hospital: Move photos into corresponding model directories
+ - [ ] Small House: Move photos into corresponding model directories
+ - [ ] Office: Some tables are not rendering in the office environment, shows floating computers
+ - [ ] Office: Move media into corresponding models folders 
+ - [ ] Factory: Gazebo complains about repeated names inside factory.world
+ - [ ] Combine all models folders into one large folder 
