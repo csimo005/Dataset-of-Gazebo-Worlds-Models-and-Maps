@@ -50,8 +50,11 @@ Most models come with maps.
 
 ### To Do
  - [ ] Hospital: Move photos into corresponding model directories
- - [ ] Small House: Move photos into corresponding model directories
+ - [x] Small House: Move photos into corresponding model directories
+ - [x] Small House: Update file paths to allow for running world from other directories 
  - [ ] Office: Some tables are not rendering in the office environment, shows floating computers
  - [ ] Office: Move media into corresponding models folders 
+ - [ ] Office: Update file paths to allow for running world from other directories 
  - [ ] Factory: Gazebo complains about repeated names inside factory.world
- - [ ] Combine all models folders into one large folder 
+ - [ ] Factory: Update file paths to allow for running world from other directories 
+ - [ ] Combine: all models folders into one large folder 
