@@ -49,7 +49,8 @@ Most models come with maps.
  ![Factory](https://github.com/mlherd/gazebo_worlds_models_maps_for_testing_navigation/blob/master/worlds/factory/factory.jpg?raw=true)
 
 ### To Do
- - [ ] Hospital: Move photos into corresponding model directories
+ - [x] Hospital: Move photos into corresponding model directories
+ - [ ] Hospital: Fix issues with textures 
  - [x] Small House: Move photos into corresponding model directories
  - [x] Small House: Update file paths to allow for running world from other directories 
  - [ ] Office: Some tables are not rendering in the office environment, shows floating computers
