@@ -1,15 +1,12 @@
 <?xml version='1.0' encoding='utf-8'?>
 <sdf version="1.6">
     <world name="world">
-        <!-- Physics Parameters -->
         <gravity>0 0 -9.8</gravity>
-        <physics default="0" name="default_physics" type="ode">
+        <physics default="0" name="default_physics" type="bullet">
             <max_step_size>0.001</max_step_size>
             <real_time_factor>1</real_time_factor>
             <real_time_update_rate>1000</real_time_update_rate>
         </physics>
-
-        <!-- Model Includes -->
         <model name="aws_robomaker_hospital_floor_01_floor_1">
             <include>
                 <uri>model://aws_robomaker_hospital_floor_01_floor</uri>
@@ -1054,8 +1051,6 @@
             </include>
             <pose>3.85701 14.8779 1.69742 0 -0 0</pose>
         </model>
-
-        <!-- Lighting -->
         <light name="ceiling_light_0" type="spot">
             <pose>-0.194533 13.8034 2.8 0 -0 0</pose>
             <diffuse>0.494118 0.494118 0.494118 1</diffuse>

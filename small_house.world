@@ -206,7 +206,7 @@
             <uri>model://aws_robomaker_residential_CookingBench_01</uri>
         </include>
         <pose frame=''>9.038383 -3.351140 0.903610 0 -0 3.137133</pose>
-        <static> true </static>
+        <!-- <static> true </static> -->
 	</model>
 
 	<model name='Curtain_01_001'>
