@@ -25,7 +25,7 @@
 	</meta>
       </visual>
     </link>
-    <static>0</static>
+    <static>1</static>
 
   </model>
 </sdf>
