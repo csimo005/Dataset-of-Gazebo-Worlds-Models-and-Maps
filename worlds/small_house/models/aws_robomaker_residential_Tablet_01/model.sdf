@@ -32,6 +32,5 @@
         </meta>
       </visual>
     </link>
-	<static>0</static>
   </model>
 </sdf>

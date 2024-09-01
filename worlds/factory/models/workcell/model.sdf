@@ -255,7 +255,7 @@
           <diffuse>0.725490196 0.517647059 0 1</diffuse>
         </material>
       </visual>
-      <collision name="conveyor_frame_3_collision">
+      <collision name="conveyor_frame_4_collision">
         <pose>5 -1.455 3.0 0 0 0</pose>
         <geometry>
           <box>

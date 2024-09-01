@@ -52,6 +52,5 @@
 </visual>
     </link>
 
-    <static>1</static>
   </model>
 </sdf>

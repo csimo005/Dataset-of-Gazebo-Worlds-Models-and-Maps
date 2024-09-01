@@ -46,6 +46,5 @@
       <meta> <layer> 1 </layer></meta>
 </visual>
     </link>
-    <static>0</static>
   </model>
 </sdf>
